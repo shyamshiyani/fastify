@@ -35,6 +35,12 @@ ___
 ##### _Export and Share_ 
 - Once satisfied with your design, export it as a JPG image.
 - Use the share function to post it directly to your social media accounts.
+
+___
+### Video:
+https://github.com/shyamshiyani/fastify/assets/149999914/093293df-820c-401f-9d7d-0c2d0e6c4488
+___
+### ScreenShots:
 ___
 ![1](https://github.com/shyamshiyani/fastify/assets/149999914/6bf6431f-f2fb-4bf9-9c33-1e8c06e0bda1)
 ![2](https://github.com/shyamshiyani/fastify/assets/149999914/062aad71-15ec-4758-94c5-3023bfb9a5f6)
@@ -43,4 +49,6 @@ ___
 ![5](https://github.com/shyamshiyani/fastify/assets/149999914/37da6503-d471-4a89-a534-7715d87caccb)
 ![6](https://github.com/shyamshiyani/fastify/assets/149999914/9b63e97f-76e5-4845-9c38-b25f2d2400ba)
 ![7](https://github.com/shyamshiyani/fastify/assets/149999914/3e89e6fd-97f6-4de2-8fce-f723740f45af)
+___
 
+___
